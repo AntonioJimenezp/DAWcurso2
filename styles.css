@@ -11,13 +11,12 @@ Released for free under a Creative Commons Attribution 2.5 License
 
 img
 {
-    padding: 0;  border: none;
+    padding: 0;  border: 1px solid black;
 }
 
 a
-{ font-weight: italic;  text-decoration: none;
-
-    color: #0b0; 
+{
+    font-weight: italic;  text-decoration: none;  color: #0b0;
 }
 
 a:hover
@@ -27,7 +26,7 @@ a:hover
 
 body
 {
-    font-family: Arial, Helvetica, sans-serif;  font-size: 12px;  line-height: 18px;  padding-bottom: 50px; color: #232323;  background: #000 url(images/bg_bot.jpg) no-repeat bottom center; 
+    font-family: Arial, Helvetica, sans-serif;  font-size: 12px;  line-height: 18px;  padding-bottom: 50px;     color: #232323;  background: #000 url(images/bg_bot.jpg) no-repeat bottom center;
 }
 
 #bg_top
@@ -44,7 +43,7 @@ body
 
 #menu
 {
-    width: 902px;  margin: 0 auto; background: url(images/menu_bg.png) no-repeat top; 
+    width: 902px;  margin: 0 auto;     background: url(images/menu_bg.png) no-repeat top;
 }
 
 #menu ul
@@ -59,7 +58,7 @@ body
 
 #menu ul li a
 {
-    font-family: Georgia,'Times New Roman',times,serif;  font-size: 16px;  font-weight: normal;  display: block;  float: left;  width: 19.9%;  height: 30px;  padding-top: 16px; text-align: center;  text-decoration: none;  color: #fff; 
+    font-family: Georgia,'Times New Roman',times,serif;  font-size: 16px;  font-weight: normal;  display: block;  float: left;  width: 19.9%;  height: 30px;  padding-top: 16px;     text-align: center;  text-decoration: none;  color: #fff;
 }
 
 #menu ul li a:hover,
@@ -71,8 +70,8 @@ body
 /*logo*/
 
 #logo
-{ height: 90px;
-    padding-top: 70px; 
+{
+    height: 90px;  padding-top: 70px;
 }
 
 #logo a
@@ -82,59 +81,55 @@ body
 
 #logo h1
 {
-    font-family: Arial, Helvetica, sans-serif;  font-size: 16px;  font-weight: normal; font-style: italic;  color: #fff; 
+    font-family: Arial, Helvetica, sans-serif;  font-size: 16px;  font-weight: normal;     font-style: italic;  color: #fff;
 }
 
 #logo small
 {
-    font-family: Arial, Helvetica, sans-serif;  font-size: 12px;  font-weight: normal;  font-style: italic;  padding-left: 30px; color: #fff; 
+    font-family: Arial, Helvetica, sans-serif;  font-size: 12px;  font-weight: normal;  font-style: italic;  padding-left: 30px;     color: #fff;
 }
 
 /*content*/
 .clear_con
-{ clear: both;
-
-    height: 15px; 
+{
+    clear: both;  height: 15px;
 }
 
 .con_top
-{ height: 10px;
-
-    background: url(images/con_top.png) no-repeat top left; 
+{
+    height: 10px;  background: url(images/con_top.png) no-repeat top left;
 }
 
 .con_bot
-{ height: 10px;
-
-    background: url(images/con_bot.png) no-repeat top left; 
+{
+    height: 10px;  background: url(images/con_bot.png) no-repeat top left;
 }
 
 /*prev box*/
 
 .prev_box
-{ min-height: 380px; padding-left: 10px; 
+{
+    min-height: 380px;     padding-left: 10px;
 
-    background: #fff; 
+    background: #fff;
 }
 
 .prev_box_header
-{ padding-left: 10px;
-
-    background: #fff; 
+{
+    padding-left: 10px;  background: #fff;
 }
 
 
 #page1
-{ width: 880px;  height: 321px;
-
-    background: url(images/page1.jpg) no-repeat left top; 
+{
+    width: 880px;  height: 321px;  background: url(images/page1.jpg) no-repeat left top;
 }
 
 
 .but_left,
 .but_right
 {
-    padding-top: 150px;  padding-right: 10px; padding-left: 10px; 
+    padding-top: 150px;  padding-right: 10px;     padding-left: 10px;
 }
 .but_left
 {
@@ -147,44 +142,42 @@ body
 }
 
 .prev_text
-{ clear: both;
-
-    padding-top: 105px;  padding-left: 20px; 
+{
+    clear: both;  padding-top: 105px;  padding-left: 20px;
 }
 
 h2
 {
-    font-family: Georgia,'Times New Roman',times,serif;  font-size: 14px;  font-weight: normal; color: #003495; 
+    font-family: Georgia,'Times New Roman',times,serif;  font-size: 14px;  font-weight: normal;     color: #003495;
 }
 
 h3
-{ font-family: Arial, Helvetica, sans-serif;  font-size: 14px;  font-weight: normal;  padding-bottom: 10px;
-
-    color: #004cf4; 
+{
+    font-family: Arial, Helvetica, sans-serif;  font-size: 14px;  font-weight: normal;  padding-bottom: 10px;  color: #004cf4;
 }
 
 .read a
-{ font-weight: normal;  display: block;  float: right;  width: 78px;  height: 21px;  margin-top: 10px; margin-right: 5px;  text-align: center;  color: #fff; 
-    background: url(images/read_more.png) no-repeat center; 
+{
+    font-weight: normal;  display: block;  float: right;  width: 78px;  height: 21px;  margin-top: 10px;     margin-right: 5px;  text-align: center;  color: #fff;
+    background: url(images/read_more.png) no-repeat center;
 }
 
 .more a
-{ font-family: Georgia,'Times New Roman',times,serif; font-size: 18px;  font-weight: normal;  display: block;  float: right;  width: 155px;  height: 31px;  margin-top: 10px;  margin-right: 5px;  padding-top: 12px;  text-align: center;  text-transform: uppercase;  color: #fff; 
-    background: url(images/more.png) no-repeat center; 
+{
+    font-family: Georgia,'Times New Roman',times,serif;     font-size: 18px;  font-weight: normal;  display: block;  float: right;  width: 155px;  height: 31px;  margin-top: 10px;  margin-right: 5px;  padding-top: 12px;  text-align: center;  text-transform: uppercase;  color: #fff;
+    background: url(images/more.png) no-repeat center;
 }
 
 /*footer*/
 
 #footer_box
-{ padding-left: 10px;
-
-    background: #fff; 
+{
+    padding-left: 10px;  background: #fff;
 }
 
 .footer_bg
-{ width: 842px;  padding-right: 30px;  padding-left: 10px;
-
-    background: url(images/more_bg.jpg) repeat-y center; 
+{
+    width: 842px;  padding-right: 30px;  padding-left: 10px;  background: url(images/more_bg.jpg) repeat-y center;
 }
 
 .foot_col1,
@@ -214,7 +207,7 @@ h3
 #footer a,
 #footer p
 {
-    font-family: Arial,Helvetica,sans-serif;  font-size: 11px;  font-weight: normal; color: #454545; 
+    font-family: Arial,Helvetica,sans-serif;  font-size: 11px;  font-weight: normal;     color: #454545;
 }
 
 .footer_text
@@ -228,14 +221,14 @@ h3
 }
 
 .footer_more a
-{ font-weight: normal;  display: block;  float: right;  width: 50px;  margin-right: 5px; text-align: center;  color: #004cf4; 
-    background: url(images/ls1.png) no-repeat center right; 
+{
+    font-weight: normal;  display: block;  float: right;  width: 50px;  margin-right: 5px;     text-align: center;  color: #004cf4;
+    background: url(images/ls1.png) no-repeat center right;
 }
 
 .ls
-{ padding-left: 0;
-
-    list-style: none; 
+{
+    padding-left: 0;  list-style: none;
 }
 
 .ls li
@@ -244,8 +237,9 @@ h3
 }
 
 .ls li a
-{ font-weight: normal; display: block;  padding-bottom: 4px;  padding-left: 15px;  color: #000; 
-    background: url(images/ls1.png) no-repeat 0 6px; 
+{
+    font-weight: normal;     display: block;  padding-bottom: 4px;  padding-left: 15px;  color: #000;
+    background: url(images/ls1.png) no-repeat 0 6px;
 }
 
 .ls li a:hover
@@ -254,19 +248,20 @@ h3
 }
 
 .ls_style
-{ display: block;  padding-left: 15px;  color: #000;
-    background: url(images/ls1.png) no-repeat 0 6px; 
+{
+    display: block;  padding-left: 15px;  color: #000;  background: url(images/ls1.png) no-repeat 0 6px;
 }
 
 .bot_bor
-{ margin-bottom: 20px; padding-top: 10px;  padding-bottom: 15px;  padding-left: 30px; 
+{
+    margin-bottom: 20px;     padding-top: 10px;  padding-bottom: 15px;  padding-left: 30px;
 
-    background: url(images/bot_bor.png) repeat-x bottom; 
+    background: url(images/bot_bor.png) repeat-x bottom;
 }
 
 .pad_left
-{ margin-bottom: 5px;
-    padding-left: 20px; 
+{
+    margin-bottom: 5px;  padding-left: 20px;
 }
 
 /*index*/
@@ -274,16 +269,16 @@ h3
 .col1 p,
 .col2 p,
 .col3 p
-{ font-style: italic; 
+{
+    font-style: italic;
     line-height: 20px;  padding-top: 10px;
 }
 
 .col1,
 .col2,
 .col3
-{ float: left;
-
-    width: 290px; 
+{
+    float: left;  width: 290px;
 }
 
 .col1,
@@ -293,60 +288,55 @@ h3
 }
 
 .more_top
-{ width: 882px;  height: 11px;  padding-top: 30px;
-
-    background: url(images/more_top.jpg) no-repeat bottom; 
+{
+    width: 882px;  height: 11px;  padding-top: 30px;  background: url(images/more_top.jpg) no-repeat bottom;
 }
 
 .more_bg
-{ width: 852px;  padding-right: 30px;
-
-    background: url(images/more_bg.jpg) repeat-y center; 
+{
+    width: 852px;  padding-right: 30px;  background: url(images/more_bg.jpg) repeat-y center;
 }
 
 .more_bg p
 {
-    font-family: Georgia,'Times New Roman',times,serif;  font-size: 18px;  line-height: 36px;  padding-right: 10px; padding-left: 10px;  color: #454545; 
+    font-family: Georgia,'Times New Roman',times,serif;  font-size: 18px;  line-height: 36px;  padding-right: 10px;     padding-left: 10px;  color: #454545;
 }
 
 .more_bot
-{ width: 882px;  height: 11px;
-
-    background: url(images/more_bot.jpg) no-repeat bottom; 
+{
+    width: 882px;  height: 11px;  background: url(images/more_bot.jpg) no-repeat bottom;
 }
 
 /*gallery*/
 
 .row
-{ height: 270px;
-    padding-left: 1px; 
+{
+    height: 270px;  padding-left: 1px;
 }
 
 .box_img2
-{ float: left;
-
-    width: 273px;  padding: 3px 0 0 3px; 
+{
+    float: left;  width: 273px;  padding: 3px 0 0 3px;
 }
 
 .box_razd
-{ float: left;
-
-    width: 24px;  height: 50px; 
+{
+    float: left;  width: 24px;  height: 50px;
 }
 
 .box_img2 h4
 {
-    font-family: Georgia,'Times New Roman',times,serif;  font-size: 18px;  font-weight: normal;  padding-bottom: 20px;  padding-left: 60px; text-align: left;  color: #004cf4; 
+    font-family: Georgia,'Times New Roman',times,serif;  font-size: 18px;  font-weight: normal;  padding-bottom: 20px;  padding-left: 60px;     text-align: left;  color: #004cf4;
 }
 
 .pirobox_gal1
-{ display: block;
-
-    width: 298px;  height: 123px; 
+{
+    display: block;  width: 298px;  height: 123px;
 }
 
 .pirobox_gal1:hover
-{ display: block; 
+{
+    display: block;
 
     width: 298px;  height: 123px;  background: url(images/rol_over_galery.png) left top no-repeat;
 }
@@ -360,14 +350,13 @@ h3
 /*contact*/
 
 .contact_content_bg
-{ padding-left: 20px;
-
-    background: url(images/con_bg.png) repeat-y center; 
+{
+    padding-left: 20px;  background: url(images/con_bg.png) repeat-y center;
 }
 
 .contact_content_left
-{ float: left;  width: 586px;
-    padding-right: 20px; 
+{
+    float: left;  width: 586px;  padding-right: 20px;
 }
 
 .contact_content_left p
@@ -391,61 +380,61 @@ h3
 }
 
 #contact-submit
-{ font-family: Arial, Helvetica, sans-serif;  font-size: 12px;  font-weight: normal;
-
-    width: 78px;  height: 23px;  color: #000;  border: none;  background: url(images/read_more.png);  background-repeat: no-repeat;  background-position: left bottom; 
+{
+    font-family: Arial, Helvetica, sans-serif;  font-size: 12px;  font-weight: normal;  width: 78px;  height: 23px;  color: #000;  border: none;  background: url(images/read_more.png);  background-repeat: no-repeat;  background-position: left bottom;
 }
 
 #contact-clear
-{ font-family: Arial, Helvetica, sans-serif;  font-size: 12px;  font-weight: normal;
-
-    width: 78px;  height: 23px;  color: #000;  border: none;  background: url(images/read_more.png);  background-repeat: no-repeat;  background-position: left bottom; 
+{
+    font-family: Arial, Helvetica, sans-serif;  font-size: 12px;  font-weight: normal;  width: 78px;  height: 23px;  color: #000;  border: none;  background: url(images/read_more.png);  background-repeat: no-repeat;  background-position: left bottom;
 }
 
 #con_name,
 #con_email,
 #con_website
 {
-    width: 566px;  height: 26px;  padding-top: 0;  padding-right: 10px;  padding-bottom: 5px; padding-left: 10px;  color: #000;  border: none;  background: url(images/input_bg.jpg);  background-repeat: no-repeat;  background-position: left top; 
+    width: 566px;  height: 26px;  padding-top: 0;  padding-right: 10px;  padding-bottom: 5px;     padding-left: 10px;  color: #000;  border: none;  background: url(images/input_bg.jpg);  background-repeat: no-repeat;  background-position: left top;
 }
 
 #con_mess
 {
-    width: 566px;  height: 125px;  margin-bottom: 10px; padding-top: 4px;  padding-right: 10px;  padding-bottom: 15px;  padding-left: 10px;  color: #000;  border: none;  background: url(images/mess_text.jpg);  background-repeat: no-repeat;  background-position: left top; 
+    width: 566px;  height: 125px;  margin-bottom: 10px;     padding-top: 4px;  padding-right: 10px;  padding-bottom: 15px;  padding-left: 10px;  color: #000;  border: none;  background: url(images/mess_text.jpg);  background-repeat: no-repeat;  background-position: left top;
 }
 
 h5
 {
-    font-family: Georgia,'Times New Roman',times,serif;  font-size: 18px;  font-weight: normal;  padding-top: 20px;  padding-bottom: 10px; text-align: left;  color: #004cf4; 
+    font-family: Georgia,'Times New Roman',times,serif;  font-size: 18px;  font-weight: normal;  padding-top: 20px;  padding-bottom: 10px;     text-align: left;  color: #004cf4;
 }
 
 .contact_content_left h6
 {
-    font-family: Georgia,'Times New Roman',times,serif;  font-size: 18px;  font-weight: normal;  padding-top: 5px;  padding-bottom: 10px; text-align: left;  color: #004cf4; 
+    font-family: Georgia,'Times New Roman',times,serif;  font-size: 18px;  font-weight: normal;  padding-top: 5px;  padding-bottom: 10px;     text-align: left;  color: #004cf4;
 }
 
 .contact_content_left h5
-{ margin-bottom: 10px; padding-top: 0; 
+{
+    margin-bottom: 10px;     padding-top: 0;
 
-    background: url(images/bot_bor.png) repeat-x bottom; 
+    background: url(images/bot_bor.png) repeat-x bottom;
 }
 
 .contact_content_right h6
 {
-    font-family: Georgia,'Times New Roman',times,serif;  font-size: 18px;  font-weight: normal;  width: 274px;  height: 40px;  padding-top: 14px; text-align: center;  color: #fff;  background: url(images/title.jpg) no-repeat top left; 
+    font-family: Georgia,'Times New Roman',times,serif;  font-size: 18px;  font-weight: normal;  width: 274px;  height: 40px;  padding-top: 14px;     text-align: center;  color: #fff;  background: url(images/title.jpg) no-repeat top left;
 }
 
 .pad_left_con
-{ padding-right: 20px;  padding-bottom: 20px;
-    padding-left: 20px; 
+{
+    padding-right: 20px;  padding-bottom: 20px;  padding-left: 20px;
 }
 
 /*aboutus*/
 
 .datebox
-{ margin-bottom: 20px; padding-bottom: 10px; 
+{
+    margin-bottom: 20px;     padding-bottom: 10px;
 
-    background: url(images/bot_bor.png) repeat-x bottom; 
+    background: url(images/bot_bor.png) repeat-x bottom;
 }
 
 .datebox a
@@ -456,27 +445,29 @@ h5
 .date,
 .user,
 .com
-{ float: left;
-
-    width: 33.3%; 
+{
+    float: left;  width: 33.3%;
 }
 
 .date a
-{ display: block;  height: 17px;  margin-left: 3px; padding-left: 20px; 
+{
+    display: block;  height: 17px;  margin-left: 3px;     padding-left: 20px;
 
-    background: url(images/date.jpg) no-repeat 0 1px; 
+    background: url(images/date.jpg) no-repeat 0 1px;
 }
 
 .user a
-{ display: block;  height: 17px; padding-left: 20px; 
+{
+    display: block;  height: 17px;     padding-left: 20px;
 
-    background: url(images/user.jpg) no-repeat 0 3px; 
+    background: url(images/user.jpg) no-repeat 0 3px;
 }
 
 .com a
-{ display: block;  height: 17px; padding-left: 20px; 
+{
+    display: block;  height: 17px;     padding-left: 20px;
 
-    background: url(images/com.jpg) no-repeat 0 3px; 
+    background: url(images/com.jpg) no-repeat 0 3px;
 }
 
 /* Header Scroll */
@@ -494,17 +485,20 @@ h5
     position: absolute; z-index: 60; top: 0; left: 0; display: none;width: 100%; height: 100%; margin: 0; padding: 0; border: 0;
 }
 .nivo-slice
-{position: absolute; z-index: 50; 
+{
+    position: absolute; z-index: 50;
 
     display: block; height: 100%;
 }
 .nivo-caption
-{font-weight: bold;;
+{
+    font-weight: bold;
 
-    position: absolute; z-index: 89; bottom: 0;  left: 0; width: 100%; padding-left: 10px; color: #000;
+    position: absolute; z-index: 89; bottom: 0;  left: 0; width: 100%; padding-left: 10px; color: #000;;
 }
 .nivo-caption p
-{margin: 0; 
+{
+    margin: 0;
     padding: 10px 5px; text-indent: -9999%;
 }
 .nivo-directionNav a
@@ -512,23 +506,28 @@ h5
     position: absolute; z-index: 99; top: 41%; width: 45px; height: 60px; cursor: pointer; text-indent: -9999%;
 }
 .nivo-prevNav
-{left: 20px; background: url(images/but_left.png) no-repeat;
+{
+    left: 20px; background: url(images/but_left.png) no-repeat;
     background-position: left bottom;
 }
 .nivo-nextNav
-{right: 0; background: url(images/but_right.png) no-repeat;
+{
+    right: 0; background: url(images/but_right.png) no-repeat;
     background-position: left top;
 }
 .nivo-controlNav
-{position: absolute; right: 0;
+{
+    position: absolute; right: 0;
     bottom: -20px;
 }
 .nivo-controlNav a
-{position: relative; z-index: 99;	display: block; 
+{
+    position: relative; z-index: 99;	display: block;
     float: left; width: 14px; height: 14px; cursor: pointer; text-indent: -9999%; background: url(images/scroll_small.png) no-repeat scroll right top;
 }
 .nivo-controlNav a.active
-{margin-top: -1px;
+{
+    margin-top: -1px;
 
     background-position: left top;
 }
